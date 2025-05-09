@@ -14,7 +14,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/planeta.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "transparent"
       },
       "package": "com.tcguus.ecoapp"
     },
